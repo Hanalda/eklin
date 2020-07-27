@@ -1,0 +1,96 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+.eklin{
+    position: relative;
+    width: 1500px;
+    height: 600px;
+}
+
+.img1 {
+    position: relative;
+    background-image: url("tanam.jpg");
+    background-repeat: no-repeat;
+    width: 2600px;
+    height: auto;
+    margin-left: -135px;
+}
+
+.a{
+    position: relative;
+    color: #990000;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    float: left;
+    margin-bottom: 10px;
+    left: 15%;
+    top: 150px;
+}
+
+.b{
+    position: relative;
+    color: dimgrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: -25px
+}
+
+.c{
+    position: relative;
+    color:dimgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+    left: 7%;
+}
+
+.button {
+    background-color: white; 
+    border: none;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+
+.merk{
+    background-image: linear-gradient(90deg, #b3b3b6 0%, #e3e3e9 35%, #ffffff 100%);
+    width: 100%;
+    height: 400px;
+}
+
+.d{
+    position: relative;
+    color: maroon;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+    left: 38%;
+    top: 58px;
+}
+
+.e{
+    position: relative;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+    left: -20%;
+}
+
+.unta{
+    position: relative;
+    float: left;
+    left: 10%;
+}
+
+.sawah{
+    position: relative;
+    float: left;
+    left: 18%;
+}
+
+.bianglala{
+    position: relative;
+    float: left;
+    left: 23%;
+}
